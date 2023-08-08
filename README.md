@@ -1,4 +1,4 @@
-# Awesome-Emebedded-AI
+# Awesome-Embedded-AI
 <p align="center">
   <a href="https://github.com/ysh329/Embedded-AI-awesome">
     <img alt="Embedded-AI-awesome" src="logo.jpg" width="300">
